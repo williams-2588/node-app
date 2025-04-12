@@ -1,2 +1,2 @@
 # node-app
-this for node training
+this is for node training
